@@ -15,6 +15,7 @@ jobs:
           sudo apt-get install -y nauty
       - name: Ordinary and optimized semantic checks
         run: |
+          GENG=$(command -v geng || command -v nauty-geng)
           python verification/self_test.py
           python -O verification/self_test.py
           python verification/review_checks.py
@@ -23,8 +24,8 @@ jobs:
           python -O verification/weighted/verify_certificates.py
           python verification/weighted/check_family.py
           python -O verification/weighted/check_family.py
-          python verification/weighted/check_parity.py
-          python -O verification/weighted/check_parity.py
+          python verification/weighted/check_parity.py "$GENG"
+          python -O verification/weighted/check_parity.py "$GENG"
       - name: Complete finite replay
         run: |
           GENG=$(command -v geng || command -v nauty-geng)
