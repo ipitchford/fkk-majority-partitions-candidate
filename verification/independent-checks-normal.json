@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "python_version": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "sympy_version": "1.14.0",
+  "random_seed": 130,
+  "matrix_orders": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "matrices_per_order": 100,
+  "matrix_count": 600,
+  "matrix_stream_sha256": "e3a97163132097694b52303f25279594f8c7e1509efe9d5ee8881486eed161a9",
+  "oracle": "Exact Fraction determinants of all principal minors; nonnegative iff PSD",
+  "scope": "PSD decisions only; does not independently compare returned ranks",
+  "pendant_symbolic_residual": "0",
+  "bipartite_symbolic_residual": "0",
+  "review_script_sha256": "3985edb6229c31845be598cb7655a88c42554aac3dd723af4cdefa883ca21537",
+  "tested_checker_sha256": "3aac20aef1018c8e62d7b03d53b86db6d3ef143070b89bb7ecc0654e912af907"
+}

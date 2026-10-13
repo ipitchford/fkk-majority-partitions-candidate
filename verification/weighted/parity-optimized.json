@@ -1,0 +1,54 @@
+{
+  "arithmetic": "exact Fraction Schur elimination",
+  "results": [
+    {
+      "n": 4,
+      "connected": 6,
+      "checked": 3,
+      "parities": [
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "n": 5,
+      "connected": 21,
+      "checked": 7,
+      "parities": [
+        [
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "n": 6,
+      "connected": 112,
+      "checked": 52,
+      "parities": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "n": 7,
+      "connected": 853,
+      "checked": 250,
+      "parities": [
+        [
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "controls": "pass"
+}

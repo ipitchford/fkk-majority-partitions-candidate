@@ -1,0 +1,6 @@
+Publication clean-extraction interpreter: 3.13.5 (main, Jun 11 2025, 15:36:57) [Clang 17.0.0 (clang-1700.0.13.3)]
+Platform: macOS-27.0.1-arm64-arm-64bit-Mach-O
+Research replay interpreter: Python 3.14.7 (recorded in verification/release-assurance.json)
+External generator: nauty geng; SHA256 ad2f68adf733dbed7cad543841cfa329740596ee5cd136f17a0a17f6e744f5ad
+pandoc 3.9
+pdfTeX 3.141592653-2.6-1.40.29 (TeX Live 2026)

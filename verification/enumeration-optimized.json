@@ -1,0 +1,76 @@
+{
+  "arithmetic": "exact integer fraction-free Schur elimination",
+  "elapsed_seconds": 63.9947350025177,
+  "results": [
+    {
+      "n": 5,
+      "all_graphs": 34,
+      "both_connected": 8,
+      "diameter2": 15,
+      "fkk_equalities": 2,
+      "d2_equalities": 1,
+      "graph6_sha256": "db56d888b80afedd817dc7ee048204866e01a1044bb6090156a0285ef4ffa67e",
+      "command": [
+        "/opt/homebrew/bin/geng",
+        "-q",
+        "5"
+      ]
+    },
+    {
+      "n": 6,
+      "all_graphs": 156,
+      "both_connected": 68,
+      "diameter2": 60,
+      "fkk_equalities": 0,
+      "d2_equalities": 0,
+      "graph6_sha256": "5ee3aab11e44b22b9f71922c7e51b5fe050a0de8ee525e08754233464c1a4172",
+      "command": [
+        "/opt/homebrew/bin/geng",
+        "-q",
+        "6"
+      ]
+    },
+    {
+      "n": 7,
+      "all_graphs": 1044,
+      "both_connected": 662,
+      "diameter2": 374,
+      "fkk_equalities": 2,
+      "d2_equalities": 1,
+      "graph6_sha256": "3c9d236c155206869769a6fdec67a879f31a8e1b5b772d765d384449fa6b5882",
+      "command": [
+        "/opt/homebrew/bin/geng",
+        "-q",
+        "7"
+      ]
+    },
+    {
+      "n": 8,
+      "all_graphs": 12346,
+      "both_connected": 9888,
+      "diameter2": 4155,
+      "fkk_equalities": 0,
+      "d2_equalities": 0,
+      "graph6_sha256": "6b740e1c1ec4f6c7d5539e2e236da0f1ad6aa3120d534590b0ea1f09ddc0b345",
+      "command": [
+        "/opt/homebrew/bin/geng",
+        "-q",
+        "8"
+      ]
+    },
+    {
+      "n": 9,
+      "all_graphs": 274668,
+      "both_connected": 247492,
+      "diameter2": 91519,
+      "fkk_equalities": 2,
+      "d2_equalities": 1,
+      "graph6_sha256": "ce9c5d4d27c8e55de5f0c6348ec781a650382e16bdff26b6c3418fa00a9cfcf9",
+      "command": [
+        "/opt/homebrew/bin/geng",
+        "-q",
+        "9"
+      ]
+    }
+  ]
+}

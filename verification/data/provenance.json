@@ -1,0 +1,10 @@
+{
+  "source": "supplied cycle15 archive, data/n10_small.txt",
+  "source_sha256": "dc64cf0e515bf992f0012d0d8b0f07d8ced7f7c6268c6b58f570a1d1b813ce73",
+  "extraction": "first whitespace-separated graph6 field from every line, original order, LF ending; floating-point estimates omitted",
+  "candidate_count": 72677,
+  "candidate_graph6_sha256": "1074462b5d0c7e0d07cbc52c054dba26b726a1864a4ceb35f13d0d67e0352d9f",
+  "minimizers_source": "explicit list in supplied audit_recorded_candidates.py",
+  "minimizers_sha256": "bde42634c780726c7bbfa776ec9b17a2b95716a7f7e358904955b1ae5b0d89c3",
+  "coverage": "listed candidates only; no assertion of exhaustive order-10 selection"
+}

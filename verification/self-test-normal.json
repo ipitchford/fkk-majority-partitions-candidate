@@ -1,0 +1,32 @@
+{
+  "status": "pass",
+  "optimized": false,
+  "count": 25,
+  "checks": [
+    "malformed graph6 b''",
+    "malformed graph6 b'?'",
+    "malformed graph6 b'~'",
+    "malformed graph6 b'A'",
+    "malformed graph6 b'A??'",
+    "malformed graph6 b'A@'",
+    "malformed graph6 b'A\\x7f'",
+    "malformed graph6 b'A!'",
+    "malformed graph6 b'AA'",
+    "valid empty order-two graph",
+    "valid order-two edge",
+    "zero diagonal nonzero offdiagonal rejected",
+    "rank-one PSD",
+    "zero PSD",
+    "positive pivot swaps",
+    "indefinite despite positive diagonals",
+    "connected P5 below threshold",
+    "K5 strictly above threshold",
+    "hub and equal cliques exact equality",
+    "true equality accepted",
+    "unexpected equality mutation",
+    "both spectral decisions flipped below threshold",
+    "D2 spectral decision mutation",
+    "matrix sign mutation is detected by K5 control",
+    "threshold mutation is detected by equality control"
+  ]
+}

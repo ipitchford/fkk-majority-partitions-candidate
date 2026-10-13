@@ -1,0 +1,14 @@
+{
+  "title": "Strict majority partitions and weighted certificates for normalized Laplacian gaps",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Unrefereed AI-assisted research candidate. A strict cross-majority partition implies the sharp normalized-Laplacian threshold, with full equality classification. Weighted quantitative certificates, explicit nonsingleton-part surplus, an infinite family beyond all majority/minority partitions, and an exact pendant reduction are proved. Classical matrix machinery is attributed. Exact finite computations supplement written proofs; neither the general Faught-Kempton-Knudson conjecture nor global originality is established. Original prose/data CC0-1.0; original code MIT; third-party works retain their terms.",
+  "creators": [{"name": "Anonymous"}],
+  "version": "0.1.0-candidate",
+  "publication_date": "2026-10-13",
+  "access_right": "open",
+  "license": "cc-zero",
+  "doi": "10.5281/zenodo.23336669",
+  "keywords": ["normalized Laplacian", "spectral graph theory", "Nordhaus-Gaddum", "majority partitions", "exact certificates"],
+  "related_identifiers": [{"identifier": "https://github.com/ipitchford/fkk-majority-partitions-candidate", "relation": "isSupplementTo", "scheme": "url"}]
+}

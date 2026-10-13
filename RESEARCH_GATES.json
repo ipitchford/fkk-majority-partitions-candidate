@@ -1,0 +1,333 @@
+{
+  "schemaVersion": "1.0",
+  "recordDate": "2026-10-13",
+  "target": "Strict majority partitions and weighted certificates for normalized Laplacian gaps, revised structural manuscript of 2026-10-13",
+  "scopeNote": "Scientific source and extension record, not a publication approval or rating. No global novelty certification. Descriptive paper locations survive renumbering.",
+  "contributionMap": [
+    {
+      "claim": "Sharp strict-majority normalized-Laplacian bound and equality classification",
+      "unit": "statement",
+      "paperLocation": "Theorem 2; Corollary 5",
+      "searches": [
+        {
+          "date": "2026-10-13",
+          "query": "normalized Laplacian strict majority",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        },
+        {
+          "date": "2026-10-13",
+          "query": "normalized Laplacian more than half partition",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        }
+      ],
+      "closestPriorWork": "Faught\u2013Kempton\u2013Knudson Conjecture 3.3 and Proposition 3.4; Kim\u2013Madras Proposition 4.1. No exact match located.",
+      "verdict": "new-in-bounded-search"
+    },
+    {
+      "claim": "Graph-specific weighted residual certificate and degree-sensitive improvement",
+      "unit": "statement",
+      "paperLocation": "Corollary 3; Proposition 6",
+      "searches": [
+        {
+          "date": "2026-10-13",
+          "query": "\"normalized Laplacian\" \"diagonal dominance\" lower bound",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        },
+        {
+          "date": "2026-10-13",
+          "query": "\"ground state representation\" \"graphs\" \"positive\" quadratic form",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        }
+      ],
+      "closestPriorWork": "Boman et al. p. 242 and Keller et al. Proposition 4.8 supply known machinery, not an inspected identical graph theorem.",
+      "verdict": "new-in-bounded-search"
+    },
+    {
+      "claim": "PSD Z-matrix, positive-vector and linear feasibility equivalence; ground-state decomposition",
+      "unit": "method",
+      "paperLocation": "Section 4; Proposition 6",
+      "searches": [
+        {
+          "date": "2026-10-13",
+          "query": "symmetric M matrix positive semidefinite positive vector",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        },
+        {
+          "date": "2026-10-13",
+          "query": "Boman Chen Parekh Toledo factor width",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        },
+        {
+          "date": "2026-10-13",
+          "query": "Criticality theory Schr\u00f6dinger operators graphs Keller Pinchover Pogorzelski arxiv 4.8 ground state",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        }
+      ],
+      "closestPriorWork": "Boman et al. Lemma 5, Definition 7, Theorem 8; Keller et al. Proposition 4.8.",
+      "verdict": "known-cited"
+    },
+    {
+      "claim": "Infinite missing-star family separates weighted certificates from strict-majority coverage in either complementary graph",
+      "unit": "statement",
+      "paperLocation": "Theorem 7",
+      "searches": [
+        {
+          "date": "2026-10-13",
+          "query": "\"normalized Laplacian\" \"bipartite\" \"star\" \"deleting\"",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        },
+        {
+          "date": "2026-10-13",
+          "query": "\"normalized Laplacian\" \"chain graphs\"",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        }
+      ],
+      "closestPriorWork": "Nearby complete-bipartite edge-deletion spectra are known; exact certificate-class separation not located. Elementary explicit spectrum is not promoted as a separate novelty claim.",
+      "verdict": "new-in-bounded-search"
+    },
+    {
+      "claim": "Positive parity surplus for nonsingleton strict-majority parts",
+      "unit": "statement",
+      "paperLocation": "Proposition 4",
+      "searches": [
+        {
+          "date": "2026-10-13",
+          "query": "\"signed complete graph\" \"smallest eigenvalue\" Laplacian",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        },
+        {
+          "date": "2026-10-13",
+          "query": "\"signed graphs\" \"frustration\" \"least eigenvalue\" complete",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        }
+      ],
+      "closestPriorWork": "Signed-Laplacian/frustration literature is adjacent; exact match not located in quick search. Supporting rank-two inequality is elementary.",
+      "verdict": "new-in-bounded-search"
+    },
+    {
+      "claim": "Exact pendant Schur criterion and complete-bipartite pendant application",
+      "unit": "statement",
+      "paperLocation": "Theorem 8; Corollary 9",
+      "searches": [
+        {
+          "date": "2026-10-13",
+          "query": "normalized Laplacian complete bipartite pendant spectrum",
+          "corpus": "Web search; arXiv full text; publisher records; primary author-hosted PDFs"
+        }
+      ],
+      "closestPriorWork": "Schur complementation and rank-two bipartite spectral calculations are standard. No separate broad novelty claim for the explicit spectrum.",
+      "verdict": "new-in-bounded-search"
+    }
+  ],
+  "sourcesReadInFull": [
+    {
+      "citation": "Faught\u2013Kempton\u2013Knudson (2024)",
+      "usedFor": "Prior conjecture and extremal family",
+      "readWhat": "Conjecture 3.3 and Proposition 3.4, full-text passages",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/html/2304.01979v1",
+      "wholeArticleRead": false
+    },
+    {
+      "citation": "Kim\u2013Madras (2025)",
+      "usedFor": "Comparison estimates",
+      "readWhat": "Theorem 3.1; Propositions 4.1 and 4.3, full-text passages",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/html/2404.15167v2",
+      "wholeArticleRead": false
+    },
+    {
+      "citation": "Li\u2013Sun\u2013Yang (2026)",
+      "usedFor": "Different current target",
+      "readWhat": "Section 5, especially Lemma 5.3",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/html/2608.08797v2",
+      "wholeArticleRead": false
+    },
+    {
+      "citation": "Kempton\u2013Zaitzeff\u2013Muthuprakash (2026)",
+      "usedFor": "Different current target",
+      "readWhat": "Section 4.2",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/html/2606.12751v1",
+      "wholeArticleRead": false
+    },
+    {
+      "citation": "Boman\u2013Chen\u2013Parekh\u2013Toledo (2005)",
+      "usedFor": "Known matrix equivalence",
+      "readWhat": "Printed p. 242, Lemma 5, Definition 7, Theorem 8 and linear-feasibility discussion; same-session reviewer inspection reused",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://www.cs.tau.ac.il/research/doron.chen/Pubs/factorwidth.pdf",
+      "wholeArticleRead": false
+    },
+    {
+      "citation": "Keller\u2013Pinchover\u2013Pogorzelski (2020)",
+      "usedFor": "Known ground-state transformation",
+      "readWhat": "Preprint Proposition 4.8, printed p. 12 inspected by extension reviewer; publisher metadata rechecked directly",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/pdf/1708.09664",
+      "wholeArticleRead": false
+    }
+  ],
+  "sourceInspectionSchemaNote": "The legacy field sourcesReadInFull records exact full-text sections read, as defined by the installed validator; wholeArticleRead is false. Metadata-only and mixed-scope records remain in sourcesInspected. No whole-article reading is claimed.",
+  "sourcesInspected": [
+    {
+      "citation": "Faught\u2013Kempton\u2013Knudson (2024)",
+      "usedFor": "Prior conjecture and extremal family",
+      "readWhat": "Conjecture 3.3 and Proposition 3.4, full-text passages",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/html/2304.01979v1"
+    },
+    {
+      "citation": "Kim\u2013Madras (2025)",
+      "usedFor": "Comparison estimates",
+      "readWhat": "Theorem 3.1; Propositions 4.1 and 4.3, full-text passages",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/html/2404.15167v2"
+    },
+    {
+      "citation": "Einollahzadeh\u2013Karkhaneei (2021)",
+      "usedFor": "Prior combinatorial bounds",
+      "readWhat": "Primary abstract/theorem statements and included-source session review; not complete article reading",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/abs/1901.02047v2"
+    },
+    {
+      "citation": "Li\u2013Sun\u2013Yang (2026)",
+      "usedFor": "Different current target",
+      "readWhat": "Section 5, especially Lemma 5.3",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/html/2608.08797v2"
+    },
+    {
+      "citation": "Kempton\u2013Zaitzeff\u2013Muthuprakash (2026)",
+      "usedFor": "Different current target",
+      "readWhat": "Section 4.2",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/html/2606.12751v1"
+    },
+    {
+      "citation": "Boman\u2013Chen\u2013Parekh\u2013Toledo (2005)",
+      "usedFor": "Known matrix equivalence",
+      "readWhat": "Printed p. 242, Lemma 5, Definition 7, Theorem 8 and linear-feasibility discussion; same-session reviewer inspection reused",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://www.cs.tau.ac.il/research/doron.chen/Pubs/factorwidth.pdf"
+    },
+    {
+      "citation": "Keller\u2013Pinchover\u2013Pogorzelski (2020)",
+      "usedFor": "Known ground-state transformation",
+      "readWhat": "Preprint Proposition 4.8, printed p. 12 inspected by extension reviewer; publisher metadata rechecked directly",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://arxiv.org/pdf/1708.09664"
+    },
+    {
+      "citation": "McKay\u2013Piperno (2014)",
+      "usedFor": "Enumeration software attribution",
+      "readWhat": "Bibliographic/software record; no complete article reading claimed",
+      "date": "2026-10-13",
+      "evidenceLocator": "https://pallini.di.uniroma1.it/"
+    }
+  ],
+  "limitationTriage": [
+    {
+      "limitation": "General FKK conjecture remains open in this work",
+      "closingQuestion": "Does every remaining complementary pair admit a sufficient certificate?",
+      "triedOrSearched": "Majority, weighted and pendant reductions investigated; no universal implication established.",
+      "estimatedCost": "Substantial open research",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "The supplied sufficient hypotheses do not cover all graphs.",
+      "whyNotClosedNow": "No cheap theorem or computation closes the universal quantifier."
+    },
+    {
+      "limitation": "Weighted coverage was not shown to extend the full majority class",
+      "closingQuestion": "Can an infinite family lack any majority partition while satisfying C positive definite?",
+      "triedOrSearched": "Missing-star family and its complement examined structurally; exact Schur numerator derived.",
+      "estimatedCost": "Completed in this revision",
+      "cheap": true,
+      "decision": "CLOSED",
+      "reasonOpen": "",
+      "whyNotClosedNow": ""
+    },
+    {
+      "limitation": "Constant bound did not quantify strictness for all nonsingleton parities",
+      "closingQuestion": "Can the equality argument yield an explicit positive surplus?",
+      "triedOrSearched": "Odd-part rank-two inequality combined with even-part diagonal surplus.",
+      "estimatedCost": "Completed in this revision",
+      "cheap": true,
+      "decision": "CLOSED",
+      "reasonOpen": "",
+      "whyNotClosedNow": ""
+    },
+    {
+      "limitation": "Reciprocal feasibility was misdescribed as directly linear",
+      "closingQuestion": "Can an equivalent LP be exhibited with classical attribution?",
+      "triedOrSearched": "PSD Z-matrix positive-vector formulation; weighted fixed-kappa feasibility; Boman comparison.",
+      "estimatedCost": "Completed in this revision",
+      "cheap": true,
+      "decision": "CLOSED",
+      "reasonOpen": "",
+      "whyNotClosedNow": ""
+    },
+    {
+      "limitation": "Global originality not certified",
+      "closingQuestion": "Could older differently worded matrix or graph bounds imply the result?",
+      "triedOrSearched": "Targeted current searches and source comparisons; partial leads and coverage gaps recorded.",
+      "estimatedCost": "Open-ended bibliographic work",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "No exhaustive citation closure or all-language search.",
+      "whyNotClosedNow": "Negative search results cannot certify priority."
+    },
+    {
+      "limitation": "No structural edit-distance stability theorem",
+      "closingQuestion": "Do analytic near-equality constraints force closeness in a specified graph metric?",
+      "triedOrSearched": "Analytic summand bounds and parity exclusion derived; small-coordinate obstruction identified.",
+      "estimatedCost": "Substantial additional theorem",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Function-energy control is not yet graph edit-distance control.",
+      "whyNotClosedNow": "No justified metric/rate theorem follows from present argument alone."
+    },
+    {
+      "limitation": "Exact finite exclusion only through order nine",
+      "closingQuestion": "Are orders ten and eleven rigorously exhaustive?",
+      "triedOrSearched": "Exact listed order-ten candidates checked; historical floating-point completeness is not assumed.",
+      "estimatedCost": "Large fresh enumeration and provenance audit",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Listed-candidate validation does not establish complete selection.",
+      "whyNotClosedNow": "No unsupported exhaustive claim is made."
+    }
+  ],
+  "extensionScout": {
+    "by": "Session literature, mathematical perspective, proof and computation reviewers",
+    "date": "2026-10-13",
+    "proposals": [
+      "Graph-level strict certificate enlargement",
+      "Quantitative weighted residual bound",
+      "Nonsingleton parity surplus",
+      "Structural stability"
+    ],
+    "actions": [
+      "Missing-star family and complementary no-majority obstruction incorporated; FINAL_RIGOUR.md validates Theorem 7 at the recorded final hash",
+      "Classical ground-state identity attributed and specialized",
+      "Odd/even quantitative arguments developed",
+      "Only analytic consequences claimed; edit-distance statement left open"
+    ]
+  },
+  "searchLimitations": [
+    "No exhaustive forward-citation closure, foreign-language or dissertation search",
+    "Sun\u2013Das comparison limited to publisher theorem extraction; full page access failed",
+    "Li\u2013Guo\u2013Shiu\u2013Chang edge-separating result discovered but not inspected in full",
+    "No comprehensive corrections/retractions database search",
+    "Sources are credited for inspected mathematical content; current-record metadata does not imply entire article inspection"
+  ],
+  "manuscriptSha256": "39bf41aadad7b2d233c6b778fd5351255304eedb616ae13f1a499e5b028565d9",
+  "proofReadback": {
+    "date": "2026-10-13",
+    "status": "PASS",
+    "evidenceLocator": "FINAL_RIGOUR.md",
+    "scope": "Full proof audit of preceding source plus line-by-line mathematical-equivalence delta read binds this final manuscript hash; agent-assisted audit, not formal verification or independent human peer review."
+  }
+}

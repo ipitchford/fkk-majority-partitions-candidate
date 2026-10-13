@@ -1,0 +1,7 @@
+{
+  "certificates": 441,
+  "without_majority_in_either_graph": 338,
+  "strict_positive_residual": 441,
+  "negative_controls": "pass",
+  "sha256": "7eb484bf5dbc95c395cef7172f1f6d278f3e18a50b73fdf2e9702c034db0cfc0"
+}

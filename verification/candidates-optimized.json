@@ -1,0 +1,100 @@
+{
+  "candidate_file": "n10_small.g6",
+  "sha256": "1074462b5d0c7e0d07cbc52c054dba26b726a1864a4ceb35f13d0d67e0352d9f",
+  "distinct_candidates": 72677,
+  "all_exactly_below_threshold": true,
+  "all_complements_exactly_strictly_above_threshold": true,
+  "recorded_minimizers": [
+    {
+      "graph6": "DCw",
+      "exact_psd_and_rank": [
+        [
+          false,
+          null
+        ],
+        [
+          true,
+          4
+        ]
+      ]
+    },
+    {
+      "graph6": "ECZo",
+      "exact_psd_and_rank": [
+        [
+          false,
+          null
+        ],
+        [
+          true,
+          5
+        ]
+      ]
+    },
+    {
+      "graph6": "FQjVo",
+      "exact_psd_and_rank": [
+        [
+          true,
+          6
+        ],
+        [
+          true,
+          6
+        ]
+      ]
+    },
+    {
+      "graph6": "GCXnf_",
+      "exact_psd_and_rank": [
+        [
+          true,
+          7
+        ],
+        [
+          true,
+          7
+        ]
+      ]
+    },
+    {
+      "graph6": "HQhTVvy",
+      "exact_psd_and_rank": [
+        [
+          true,
+          8
+        ],
+        [
+          true,
+          8
+        ]
+      ]
+    },
+    {
+      "graph6": "I?ABrpw~?",
+      "exact_psd_and_rank": [
+        [
+          true,
+          9
+        ],
+        [
+          true,
+          9
+        ]
+      ]
+    },
+    {
+      "graph6": "J?ABrpw]Fw?",
+      "exact_psd_and_rank": [
+        [
+          true,
+          10
+        ],
+        [
+          true,
+          10
+        ]
+      ]
+    }
+  ]
+}

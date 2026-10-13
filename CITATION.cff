@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the unrefereed research candidate and retain its stated limitations."
+type: article
+title: "Strict majority partitions and weighted certificates for normalized Laplacian gaps"
+authors:
+  - name: Anonymous
+version: 0.1.0-candidate
+date-released: 2026-10-13
+doi: 10.5281/zenodo.23336669
+repository-code: https://github.com/ipitchford/fkk-majority-partitions-candidate
+license: CC0-1.0
+keywords:
+  - normalized Laplacian
+  - spectral graph theory
+  - Nordhaus-Gaddum
+  - exact certificates
